@@ -4,3 +4,4 @@
 then install all python library that inside the requirements.txt
 then install ipykernel
 
+link - https://churnguardmodel.streamlit.app/
